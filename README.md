@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Dennis 👋
 
+a passionate developer who brings ideas to life!
 <!--
 **denczo/denczo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
