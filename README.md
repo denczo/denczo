@@ -16,7 +16,7 @@
 
 ### 🎹 DSP & Synths
 &emsp;<img align="absmiddle" height="14" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/> **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO<br>
-&emsp;<img align="absmiddle" height="14" src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript"/> **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer<br>
+&emsp;<img align="absmiddle" height="14" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/> **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer<br>
 &emsp;<img align="absmiddle" height="14" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/> **[FM_Plotter](https://github.com/denczo/FM_Plotter)** · **[FREM](https://github.com/denczo/FREM)** — interactive FM-synthesis learning tools
 
 ### 🍃 Nanoleaf
