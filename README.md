@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="divider.svg" alt="Pac-Man divider"/>
+  <img width="100%" src="divider.svg?v=2" alt="Pac-Man divider"/>
 </p>
 
 ### 🎹 Audio & synths
