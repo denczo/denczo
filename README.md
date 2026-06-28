@@ -1,6 +1,5 @@
-<h3 align="center">Hey, I'm Dennis 👋</h3>
-
-<p align="center">maker · developer · perpetual tinkerer</p>
+<h3 align="center">Hey, I'm Dennis 👋<br>
+  <sub>maker · developer · perpetual tinkerer</sub></h3>
 
 <p align="center">
   <img height="32" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;
