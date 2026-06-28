@@ -20,7 +20,7 @@
 ### 🍃 Nanoleaf
 - **[nanoleaf-reloaded](https://github.com/denczo/nanoleaf-reloaded)** — per-panel pattern control in Home Assistant
 - **[nanoleaf-reloaded-card](https://github.com/denczo/nanoleaf-reloaded-card)** — standalone HACS Lovelace card for the panels
-- **[ambileaf](https://github.com/denczo/ambileaf)** — screen-synced ambilight for Nanoleafs
+- **[ambileaf](https://github.com/denczo/ambileaf)** — screen-synced ambilight for Nanoleafs, even mid-firefight in BF6
 
 ### 🤖 ML & robotics
 - **[RaspberryBot](https://github.com/denczo/RaspberryBot)** — Q-learning line-follower robot
