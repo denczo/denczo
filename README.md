@@ -22,7 +22,3 @@
 - **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:185a9d,100:43cea2&height=120&section=footer" alt=""/>
-</p>
