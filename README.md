@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Dennis's workshop</h1>
+<h1 align="center">Hey, I'm Dennis 👋</h1>
 
 <p align="center">synths 🎹 · smart lights 💡 · robots 🤖 · 3D-printed gadgets 🛠️</p>
 
