@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:35586e&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=synths%20%C2%B7%20smart%20lights%20%C2%B7%20robots%20%C2%B7%203D-printed%20gadgets&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:185a9d,100:43cea2&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=synths%20%C2%B7%20smart%20lights%20%C2%B7%20robots%20%C2%B7%203D-printed%20gadgets&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/3D%20Printing-FF6E00?style=flat&logo=prusa&logoColor=white" alt="3D Printing">
+  <img height="34" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
 </p>
 
 ### 🎹 Audio & synths
@@ -32,5 +32,5 @@
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:35586e&height=120&section=footer" alt=""/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:185a9d,100:43cea2&height=120&section=footer" alt=""/>
 </p>
