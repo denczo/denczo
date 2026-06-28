@@ -1,8 +1,6 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:35586e&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=maker%20%C2%B7%20developer%20%C2%B7%20perpetual%20tinkerer&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:35586e&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=synths%20%C2%B7%20smart%20lights%20%C2%B7%20robots%20%C2%B7%203D-printed%20gadgets&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
 </p>
-
-<p align="center">synths 🎹 · smart lights 💡 · robots 🤖 · 3D-printed gadgets 🛠️</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -11,8 +9,6 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/3D%20Printing-FF6E00?style=flat&logo=prusa&logoColor=white" alt="3D Printing">
 </p>
-
----
 
 ### 🎹 Audio & synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO ⭐ 17
