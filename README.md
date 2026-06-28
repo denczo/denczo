@@ -14,7 +14,7 @@
   <img width="100%" src="pacman-line3.svg" alt="Pac-Man divider"/>
 </p>
 
-### 🎹 Audio & synths
+### 🎹 DSP & Synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO
 - **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer
 - **[FM_Plotter](https://github.com/denczo/FM_Plotter)** · **[FREM](https://github.com/denczo/FREM)** — interactive FM-synthesis learning tools
@@ -24,12 +24,12 @@
 - **[nanoleaf-reloaded-card](https://github.com/denczo/nanoleaf-reloaded-card)** — standalone HACS Lovelace card for the panels
 - **[ambileaf](https://github.com/denczo/ambileaf)** — screen-synced ambilight for Nanoleafs, even mid-firefight in BF6
 
-### 🤖 ML & robotics
+### 🤖 ML & Robotics
 - **[RaspberryBot](https://github.com/denczo/RaspberryBot)** — Q-learning line-follower robot
 - **[optimization-algos](https://github.com/denczo/optimization-algos)** — hill climbing, simulated annealing, genetic algorithm
 - **[ConvAutoencoderRPI](https://github.com/denczo/ConvAutoencoderRPI)** — conv autoencoder on a Raspberry Pi (thesis)
 
-### 🧰 Odds & ends
+### 🧰 Tinkering
 - **[kivy_examples](https://github.com/denczo/kivy_examples)** — Kivy component examples
 - **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
