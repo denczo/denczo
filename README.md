@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Dennis&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Hey, I'm Dennis"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=maker%20%C2%B7%20developer%20%C2%B7%20perpetual%20tinkerer&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
 </p>
 
 <p align="center">synths 🎹 · smart lights 💡 · robots 🤖 · 3D-printed gadgets 🛠️</p>
