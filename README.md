@@ -3,14 +3,12 @@
 <p align="center"><i>maker · developer · perpetual tinkerer</i></p>
 
 <p align="center">
-  <img height="32" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img height="32" src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
 </p>
-
-<p align="center">ᗧ · · · · · · · · · · · · · · · · ·  ᗣ</p>
 
 ### 🎹 Audio & synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO
@@ -32,3 +30,11 @@
 - **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denczo/denczo/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denczo/denczo/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/denczo/denczo/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
