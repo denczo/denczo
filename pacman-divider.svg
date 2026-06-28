@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="30" viewBox="0 0 900 30" role="img" aria-label="Pac-Man divider">
+  <circle cx="250" cy="15" r="3" fill="#7d8590"/><circle cx="290" cy="15" r="3" fill="#7d8590"/><circle cx="330" cy="15" r="3" fill="#7d8590"/><circle cx="370" cy="15" r="3" fill="#7d8590"/><circle cx="410" cy="15" r="3" fill="#7d8590"/><circle cx="450" cy="15" r="3" fill="#7d8590"/><circle cx="490" cy="15" r="3" fill="#7d8590"/><circle cx="530" cy="15" r="3" fill="#7d8590"/><circle cx="570" cy="15" r="3" fill="#7d8590"/><circle cx="610" cy="15" r="3" fill="#7d8590"/><circle cx="650" cy="15" r="3" fill="#7d8590"/><circle cx="690" cy="15" r="3" fill="#7d8590"/><circle cx="730" cy="15" r="3" fill="#7d8590"/><circle cx="770" cy="15" r="3" fill="#7d8590"/><circle cx="810" cy="15" r="3" fill="#7d8590"/><circle cx="850" cy="15" r="3" fill="#7d8590"/>
+  <path d="M210,15 L220.1,8.5 A12,12 0 1 1 220.1,21.5 Z" fill="#ffd33d"/>
+  <circle cx="210" cy="10" r="1.7" fill="#1b1f24"/>
+</svg>

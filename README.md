@@ -32,9 +32,5 @@
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/denczo/denczo/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/denczo/denczo/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/denczo/denczo/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <img width="100%" src="pacman-divider.svg?v=1" alt="Pac-Man divider"/>
 </p>
