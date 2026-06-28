@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=maker%20%C2%B7%20developer%20%C2%B7%20perpetual%20tinkerer&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:35586e&height=220&section=header&text=Hey,%20I'm%20Dennis&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=maker%20%C2%B7%20developer%20%C2%B7%20perpetual%20tinkerer&descSize=18&descAlignY=58&fontAlignY=40" alt="Hey, I'm Dennis"/>
 </p>
 
 <p align="center">synths 🎹 · smart lights 💡 · robots 🤖 · 3D-printed gadgets 🛠️</p>
@@ -36,5 +36,5 @@
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt=""/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a3a,100:35586e&height=120&section=footer" alt=""/>
 </p>
