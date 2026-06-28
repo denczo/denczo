@@ -6,6 +6,7 @@
   <img height="32" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/nextdotjs/7d8590" alt="Next.js"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/tailwindcss/7d8590" alt="Tailwind CSS"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
