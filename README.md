@@ -1,6 +1,6 @@
-<h1 align="center">⌨️ Dennis — keyboard warrior</h1>
+<h1 align="center">🛠️ Dennis's workshop</h1>
 
-<p align="center">I make things that <strong>bleep</strong> 🎹, <strong>blink</strong> 💡 and <strong>think</strong> 🤖</p>
+<p align="center">synths 🎹 · smart lights 💡 · robots 🤖 · 3D-printed gadgets 🛠️</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -12,22 +12,23 @@
 
 ---
 
-### 🎹 bleep
+### 🎹 Audio & synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO ⭐ 17
 - **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer
 - **[FM_Plotter](https://github.com/denczo/FM_Plotter)** · **[FREM](https://github.com/denczo/FREM)** — interactive FM-synthesis learning tools
 
-### 💡 blink
-- **[nanoleaf-reloaded](https://github.com/denczo/nanoleaf-reloaded)** — per-panel Nanoleaf control for Home Assistant
+### 🍃 Nanoleaf
+- **[nanoleaf-reloaded](https://github.com/denczo/nanoleaf-reloaded)** — per-panel pattern control in Home Assistant
+- **[nanoleaf-reloaded-card](https://github.com/denczo/nanoleaf-reloaded-card)** — standalone HACS Lovelace card for the panels
 - **[ambileaf](https://github.com/denczo/ambileaf)** — screen-synced ambilight for Nanoleafs
-- **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 
-### 🤖 think
+### 🤖 ML & robotics
 - **[RaspberryBot](https://github.com/denczo/RaspberryBot)** — Q-learning line-follower robot
 - **[optimization-algos](https://github.com/denczo/optimization-algos)** — hill climbing, simulated annealing, genetic algorithm
 - **[ConvAutoencoderRPI](https://github.com/denczo/ConvAutoencoderRPI)** — conv autoencoder on a Raspberry Pi (thesis)
 
-### 🧰 odds & ends
+### 🧰 Odds & ends
 - **[kivy_examples](https://github.com/denczo/kivy_examples)** — Kivy component examples ⭐ 15
+- **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
