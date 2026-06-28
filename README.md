@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://api.iconify.design/mdi:pac-man.svg?color=%23ffd33d" height="20" alt="Pac-Man"/>&nbsp;&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•
+  <img width="100%" src="divider.svg" alt="Pac-Man divider"/>
 </p>
 
 ### 🎹 Audio & synths
