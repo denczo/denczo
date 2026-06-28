@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="banner.svg?v=2" alt="Hey, I'm Dennis — maker, developer, perpetual tinkerer"/>
+  <img width="100%" src="banner.svg?v=3" alt="Hey, I'm Dennis — maker, developer, perpetual tinkerer"/>
 </p>
 
 ### 🎹 Audio & synths
