@@ -1,6 +1,7 @@
-<h3 align="center">Hey, I'm Dennis 👋</h3>
-
-<p align="center">maker · developer · perpetual tinkerer</p>
+<p align="center">
+  $\huge\textsf{Hey, I'm Dennis}$ &nbsp;👋
+  <br>maker · developer · perpetual tinkerer
+</p>
 
 <p align="center">
   <img height="32" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;
