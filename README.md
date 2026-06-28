@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="pacman-line.svg" alt="Pac-Man divider"/>
+  <img width="100%" src="pacman-line2.svg" alt="Pac-Man divider"/>
 </p>
 
 ### 🎹 Audio & synths
