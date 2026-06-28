@@ -10,6 +10,10 @@
   <img height="32" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
 </p>
 
+<p align="center">
+  <img src="https://api.iconify.design/mdi:pac-man.svg?color=%23ffd33d" height="20" alt="Pac-Man"/>&nbsp;&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•&nbsp;•
+</p>
+
 ### 🎹 Audio & synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO
 - **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer
@@ -30,7 +34,3 @@
 - **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
-
-<p align="center">
-  <img width="100%" src="pacman-divider.svg?v=1" alt="Pac-Man divider"/>
-</p>
