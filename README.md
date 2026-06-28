@@ -1,6 +1,16 @@
+<h1 align="center">Hey, I'm Dennis 👋</h1>
+
+<p align="center"><i>maker · developer · perpetual tinkerer</i></p>
+
 <p align="center">
-  <img width="100%" src="banner.svg?v=3" alt="Hey, I'm Dennis — maker, developer, perpetual tinkerer"/>
+  <img height="32" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/typescript/7d8590" alt="TypeScript"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++"/>&nbsp;&nbsp;&nbsp;
+  <img height="32" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
 </p>
+
+<p align="center">─────────────  ✦  ─────────────</p>
 
 ### 🎹 Audio & synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO
