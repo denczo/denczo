@@ -10,7 +10,7 @@
   <img height="32" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
 </p>
 
-<p align="center">─────────────  ✦  ─────────────</p>
+<p align="center">ᗧ · · · · · · · · · · · · · · · · ·  ᗣ</p>
 
 ### 🎹 Audio & synths
 - **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO
