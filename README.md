@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Dennis 👋</h1>
 
-<p align="center"><i>maker · developer · perpetual tinkerer</i></p>
+<p align="center">maker · developer · perpetual tinkerer</p>
 
 <p align="center">
   <img height="32" src="https://cdn.simpleicons.org/react/7d8590" alt="React"/>&nbsp;&nbsp;&nbsp;
@@ -8,10 +8,6 @@
   <img height="32" src="https://cdn.simpleicons.org/python/7d8590" alt="Python"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/cplusplus/7d8590" alt="C++"/>&nbsp;&nbsp;&nbsp;
   <img height="32" src="https://cdn.simpleicons.org/raspberrypi/7d8590" alt="Raspberry Pi"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="pacman-ghost.svg" alt="Pac-Man divider"/>
 </p>
 
 ### 🎹 Audio & synths
@@ -34,3 +30,7 @@
 - **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
+
+<p align="center">
+  <img width="100%" src="pacman-line.svg" alt="Pac-Man divider"/>
+</p>
