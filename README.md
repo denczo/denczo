@@ -1,9 +1,6 @@
 <h1 align="center">⌨️ Dennis — keyboard warrior</h1>
 
-<p align="center">
-  I make things that <strong>bleep</strong> 🎹, <strong>blink</strong> 💡 and <strong>think</strong> 🤖<br>
-  mostly for the fun of it.
-</p>
+<p align="center">I make things that <strong>bleep</strong> 🎹, <strong>blink</strong> 💡 and <strong>think</strong> 🤖</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
@@ -15,32 +12,22 @@
 
 ---
 
-This is my corner of the internet. Synths, reactive lights, tiny robots,
-3D-printed gadgets — if it looks like a rabbit hole, I've probably been down it.
+### 🎹 bleep
+- **[pyblaster](https://github.com/denczo/pyblaster)** — monophonic synth: MIDI, ADSR, reverb, LFO ⭐ 17
+- **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer
+- **[FM_Plotter](https://github.com/denczo/FM_Plotter)** · **[FREM](https://github.com/denczo/FREM)** — interactive FM-synthesis learning tools
 
-> 🛠️ **Currently tinkering with:** an ambilight for my Nanoleafs, a force-feedback
-> HOTAS for Elite Dangerous, and 3D prints for the shop.
+### 💡 blink
+- **[nanoleaf-reloaded](https://github.com/denczo/nanoleaf-reloaded)** — per-panel Nanoleaf control for Home Assistant
+- **[ambileaf](https://github.com/denczo/ambileaf)** — screen-synced ambilight for Nanoleafs
+- **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 
-### 🎹 things that bleep
-- **[pyblaster](https://github.com/denczo/pyblaster)** — my monophonic synth: MIDI, ADSR, reverb & LFO ⭐ 17
-- **[monomind](https://github.com/denczo/monomind)** — synth + 32-step sequencer for grimy bass lines
-- **[FM_Plotter](https://github.com/denczo/FM_Plotter)** · **[FREM](https://github.com/denczo/FREM)** — because FM synthesis finally clicked and I had to share
-
-### 💡 things that blink
-- **[nanoleaf-reloaded](https://github.com/denczo/nanoleaf-reloaded)** — per-panel control for my Nanoleafs in Home Assistant
-- **[ambileaf](https://github.com/denczo/ambileaf)** — those panels, now reacting to whatever's on screen
-- **[arcreactor](https://github.com/denczo/arcreactor)** — a 3D-printed Arc Reactor that actually glows
-
-### 🤖 things that think
-- **[RaspberryBot](https://github.com/denczo/RaspberryBot)** — a line-follower that taught itself with Q-learning
-- **[optimization-algos](https://github.com/denczo/optimization-algos)** — hill climbing, simulated annealing & a genetic algorithm
-- **[ConvAutoencoderRPI](https://github.com/denczo/ConvAutoencoderRPI)** — squeezing a conv autoencoder onto a Pi (my thesis)
+### 🤖 think
+- **[RaspberryBot](https://github.com/denczo/RaspberryBot)** — Q-learning line-follower robot
+- **[optimization-algos](https://github.com/denczo/optimization-algos)** — hill climbing, simulated annealing, genetic algorithm
+- **[ConvAutoencoderRPI](https://github.com/denczo/ConvAutoencoderRPI)** — conv autoencoder on a Raspberry Pi (thesis)
 
 ### 🧰 odds & ends
-- **[kivy_examples](https://github.com/denczo/kivy_examples)** — the Kivy cheat-sheet I wish I'd had ⭐ 15
-- **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy on my wrist
-- **[nextfolio](https://github.com/denczo/nextfolio)** — where all this lives on the web
-
----
-
-<p align="center"><sub>⚡ always building something · ☕ powered by coffee and side-quests</sub></p>
+- **[kivy_examples](https://github.com/denczo/kivy_examples)** — Kivy component examples ⭐ 15
+- **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
+- **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
