@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Dennis 👋</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Dennis&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Hey, I'm Dennis"/>
+</p>
 
 <p align="center">synths 🎹 · smart lights 💡 · robots 🤖 · 3D-printed gadgets 🛠️</p>
 
@@ -32,3 +34,7 @@
 - **[arcreactor](https://github.com/denczo/arcreactor)** — animation for a 3D-printed Arc Reactor
 - **[pipboy_watchface](https://github.com/denczo/pipboy_watchface)** — Pip-Boy watchface for the Mi Band 8
 - **[nextfolio](https://github.com/denczo/nextfolio)** — portfolio site built with Next.js
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt=""/>
+</p>
